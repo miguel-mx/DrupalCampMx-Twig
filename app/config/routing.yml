@@ -1,0 +1,5 @@
+ccm_twig_demo:
+    resource: "@CcmTwigDemoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

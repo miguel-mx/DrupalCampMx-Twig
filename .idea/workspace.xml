@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="835963df-500f-490d-ae27-8c150dbd18bc" name="Default" comment="" />
+    <ignored path="DrupalCamp.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/a.dummy" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395966256911" ignored="false" />
+    <file path="/README.md" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395969553053" ignored="false" />
+    <file path="/parameters.yml.dist" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395967821472" ignored="false" />
+    <file path="/security.yml" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395968674925" ignored="false" />
+    <file path="/layout.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397067377650" ignored="false" />
+    <file path="/index.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396551857692" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/install.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/configurator.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/body.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/structure.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/exception.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/drupalcamp.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="/drupalcamp.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396573245605" ignored="false" />
+    <file path="/DefaultController.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397155006268" ignored="false" />
+    <file path="/variables.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157280727" ignored="false" />
+    <file path="/herencia.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397084512930" ignored="false" />
+    <file path="/control.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397168249229" ignored="false" />
+    <file path="/incluye.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397084864076" ignored="false" />
+    <file path="/CcmExtension.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397153455193" ignored="false" />
+    <file path="/services.xml" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397153140889" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/c9/26/18e1366603a75b51cb52a789368db4ef09c807a7fc811ddfcaedac8f8f23.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397168292423" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/85/71/43e07aa5638b85bff51b37adb3118ae0a923749a134bab835295e9ea72a0.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397169083174" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e3/e6/0036769927ff84b85497cab60e24d8c0e5fa0328e1187de2e46f62d544ab.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/46/35/94fdd2fc5eb0ae4e227407cf00a51a31116fac9869135ae4e3d3da625c9b.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/58/74/aa04d6b9517b5d1261c722d4fd2268612e726c9c11c04a14466dec44d87f.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/f5/08/646591ca092bee6e9fccc6714a9010694273ca55125854a07aa8ae5bc169.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/f5/0f/658b1c7139f4bfb8cf1c88d08d57aa5c778418667ad96af4dc6abea20538.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/64/30/1fa36affe3c7a80f400f46fb63c9a59b478002240fa6854776681a47e680.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/f8/bf/b01fd0a7516340c7024ac39d983567d32f4021ac4e497747fc376635122a.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/6f/dc/886ef54697f42a473f418c6ea04e13d35e520082cf02b6209c746878ce43.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/fc/88/6654fcc09e61ff77100274489a384bf94e69d5fb07fb100c846208198702.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/70/2a/a3a3bc217fb793cf153c77db379128c831794941b1406f7a77565fc2f486.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/7c/72/502de180d84e8bb1ce885e48aef119850d0aa243b48c207eaf0037170e6f.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/63/26/36c7f5b06b01f677e63fa3e432b327e204c093188fd82dbf60583e957f44.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/89/2c/8729a72eb2e8f2ce4574f85888f5ff9142b5d137ae98a13848b7e7648f45.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/8b/94/0487f609020190028b8f93da16aea06cd5da33ca6dc1b44ea08e44f16cc9.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/02/dc/01f00631ce4cca278308fdaae1bb633ddf2d0ead90b32b1992244e99447e.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/25/ea/462f5ad5bafbce56106b30e240c45261df4d165fdf3c24d211c5bacddd75.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/96/c6/0bf584a7f5d8e0d64fae30fb36ab450ba6a4c3ebf8d2f49f39e66a0ec589.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/cc/e0/0e912e81fbb46c15b0504cd19197c8b4ab8ae2c642773d9ba242e34e132e.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/1a/27/3b5e670bdb8e24d51cefb6f0d8f80d8550d20e989146dd26b0a7e9607ca8.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e8/a9/7de5760eae31cf60c31776b1c36b687468325cd848f02e760cae78d7f566.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/8e/ac/d6edf2ed7646454da7d2de53cc1109ddfc4ddf8da4479670814694b99809.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/31/e5/97cd0f0ab1b5b7e3578f1f0f51413447746602e381822f90b1b0e27fff98.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/7a/34/0487e1b87a2d8f06597399abe5ff9733fe0812f243e61452ba3b295a0a3d.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e1/83/ebaaf329ac72fcbbfadaaa9f6ee9a14ec8c439274bd06d7559e37d5f9426.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/7b/d6/2605a485cd37d721ba9a8b969ae9a85fd4c7108abec3eeef068ca554e400.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/af/ef/39b0e5e5382913bcc76d04b473b43380676ca4e210c3e7f15ca2fbf11d17.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157046867" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/3c/e0/cf54983ec5aa22162302ff5ad0d6d5a41cdc2afcb6e8e72690ac96bb935e.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e2/f6/62bf9c0308524127973c17c8576ef87de5b9607a525a329068a7d34aa908.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156684363" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/prod/twig/c9/26/18e1366603a75b51cb52a789368db4ef09c807a7fc811ddfcaedac8f8f23.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156829926" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/prod/twig/85/71/43e07aa5638b85bff51b37adb3118ae0a923749a134bab835295e9ea72a0.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397156829926" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/6c/de/a05c5a07bcb60b470cbac54b2384604720c70808ba61b398be208b4d9308.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157031760" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/ef/09/4574c00eac08a67b59b0a27617f65309277fb3c7b82df34d3e047cda4436.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157031760" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/d7/44/906ad3afa98e11496f991768794f3b4307f94a94b08f1a0fe2b54cdf9037.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157387767" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/24/f6/f631e55b567735446437945a3c96f9f8a987daee7646a90ad3f1f08ef8b2.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/18/4f/1adf9ea9f64926072f64cf406a6e504c28d8ceb63950be29913c8e479a4f.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="DrupalCamp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Tests/Controller/DefaultControllerTest.php" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/public/css/drupalcamp.css" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/herencia.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/quotes.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/incluye.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/config/services.xml" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Twig/CcmExtension.php" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/variables.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/control.html.twig" />
+        <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/layout.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="345" />
+    <option name="y" value="24" />
+    <option name="width" value="1504" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ccm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwigDemoBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ccm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwigDemoBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ccm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwigDemoBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ccm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TwigDemoBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DrupalCamp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="835963df-500f-490d-ae27-8c150dbd18bc" name="Default" comment="" />
+      <created>1395966117405</created>
+      <updated>1395966117405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="345" y="24" width="1504" height="995" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25343406" sideWeight="0.6710059" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/config/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="34" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="30" selection-start="1854" selection-end="1854" vertical-scroll-proportion="0.61335015">
+          <folding>
+            <element signature="e#49#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.35678393">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Twig/CcmExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="36" selection-start="506" selection-end="506" vertical-scroll-proportion="0.4534005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/variables.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="14" selection-start="1272" selection-end="1272" vertical-scroll-proportion="-21.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/control.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="51" selection-start="1174" selection-end="1174" vertical-scroll-proportion="-11.583333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.40332907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

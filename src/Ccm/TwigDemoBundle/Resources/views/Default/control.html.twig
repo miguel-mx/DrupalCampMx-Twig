@@ -1,0 +1,65 @@
+{# src/Ccm/TwigBundle/Resources/views/Default/control.html.twig #}
+{% extends 'CcmTwigDemoBundle::layout.html.twig' %}
+
+{% block title %}DrupalCamp - Control de plantilla{% endblock %}
+
+{# Se sustituye la barra de navegación para cambiar el menú activo#}
+
+            {% block nav%}
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ path('index') }}">Inicio</a></li>
+                    <li><a href="{{ path('variables') }}">Variables</a></li>
+                    <li><a href="#">Herencia</a></li>
+                    <li class="active"><a href="{{ path('control') }}">Control</a></li>
+                    <li><a href="{{ path('incluye') }}">Include</a></li>
+                </ul>
+            {% endblock %}
+
+
+{% block body %}
+
+
+
+
+<div class="row">
+
+    {# Ejemplo de uso de variables globales #}
+    {# app.environment #}
+
+    {% if app.environment == "dev" %}
+        <div class="alert alert-danger">
+            <h4><span class="glyphicon glyphicon-remove"></span> Aplicación corriendo en ambiente de desarrollo.</h4>
+        </div>
+    {% else %}
+        <div class="alert alert-success">
+            <h4><span class="glyphicon glyphicon-ok"></span> Aplicación corriendo en ambiente de producción.</h4>
+        </div>
+    {% endif %}
+
+</div>
+
+<div class="row">
+
+    {# Muestra el formulario #}
+
+        {{ form_start(form) }}
+        {{ form_errors(form) }}
+
+        <div class="form-group">
+            <label>Escribe una cadena: </label>
+            {{ form_errors(form.Cadena) }}
+            {{ form_widget(form.Cadena) }}
+        </div>
+
+        <div>
+            {{ form_widget(form.Enviar, { 'attr': {'class': 'btn btn-primary'} }) }}
+        </div>
+
+        {{ form_end(form) }}
+
+<div class="page-header"></div>
+<div class="well  well-lg"><h3>{{ cadena |spaces }}</h3></div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,15 @@
+html {
+    font-family: lato, sans-serif;
+}
+
+.jumbotron {
+    background-color: #006699;
+    color: #FFFFFF;
+}
+
+.btn-drupalcamp {
+    background-color: #006699;
+    border-color: #CCCCCC;
+    color: #FFFFFF
+;
+}

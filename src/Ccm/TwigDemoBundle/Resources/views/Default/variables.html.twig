@@ -1,0 +1,36 @@
+{# src/Ccm/TwigBundle/Resources/views/Default/variables.html.twig #}
+{% extends 'CcmTwigDemoBundle::layout.html.twig' %}
+
+{% block title %}DrupalCamp - Paso de variables {% endblock %}
+
+{# Se sustituye la barra de navegación para cambiar el menú activo#}
+
+            {% block nav%}
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ path('index') }}">Inicio</a></li>
+                    <li class="active"><a href="#">Variables</a></li>
+                    <li><a href="{{ path('herencia') }}">Herencia</a></li>
+                    <li><a href="{{ path('control') }}">Control</a></li>
+                    <li><a href="{{ path('incluye') }}">Include</a></li>
+                </ul>
+            {% endblock %}
+
+
+{% block body %}
+    <div class="page-header">
+        <h1>Lista de participantes {{ '{{ var }}' }} <small>DrupalConf</small></h1>
+    </div>
+
+    {# Loop para imprimir el contenido del arreglo que se recibe del controlador #}
+
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table table-striped">
+                {% for part in participantes %}
+                    <tr><td><h4>{{ part |upper }}</h4></td></tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+{% endblock %}
