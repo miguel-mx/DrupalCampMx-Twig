@@ -42,8 +42,7 @@ Instalación
     *$ composer.phar update*
 
 * Durante la instalación los siguientes campos se pueden dejar vacíos:
-
-Creating the "app/config/parameters.yml" file
+    - Creating the "app/config/parameters.yml" file
     - Some parameters are missing. Please provide them.
     - database_driver (pdo_mysql):
     - database_host (127.0.0.1):

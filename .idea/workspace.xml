@@ -8,7 +8,7 @@
     <ignored path="DrupalCamp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395966256911" ignored="false" />
-    <file path="/README.md" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397234744834" ignored="false" />
+    <file path="/README.md" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397235095055" ignored="false" />
     <file path="/parameters.yml.dist" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395967821472" ignored="false" />
     <file path="/security.yml" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395968674925" ignored="false" />
     <file path="/layout.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397067377650" ignored="false" />
@@ -68,7 +68,7 @@
     <file path="$PROJECT_DIR$/app/cache/dev/twig/d7/44/906ad3afa98e11496f991768794f3b4307f94a94b08f1a0fe2b54cdf9037.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157387767" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/twig/24/f6/f631e55b567735446437945a3c96f9f8a987daee7646a90ad3f1f08ef8b2.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/twig/18/4f/1adf9ea9f64926072f64cf406a6e504c28d8ceb63950be29913c8e479a4f.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
-    <file path="/Dummy.txt" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397233857810" ignored="false" />
+    <file path="/Dummy.txt" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397235315095" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="42" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.80627304">
+            <state line="44" column="6" selection-start="969" selection-end="969" vertical-scroll-proportion="0.47416973">
               <folding />
             </state>
           </provider>
@@ -286,7 +286,15 @@
       <created>1397233861139</created>
       <updated>1397233861139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Actualización README">
+      <created>1397234939321</created>
+      <updated>1397234939321</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Actualización README">
+      <created>1397235320942</created>
+      <updated>1397235320942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -498,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="42" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.80627304">
+        <state line="44" column="6" selection-start="969" selection-end="969" vertical-scroll-proportion="0.47416973">
           <folding />
         </state>
       </provider>
