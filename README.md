@@ -43,20 +43,20 @@ Instalación
 
 * Durante la instalación los siguientes campos se pueden dejar vacíos:
 
-- Creating the "app/config/parameters.yml" file
-- Some parameters are missing. Please provide them.
-- database_driver (pdo_mysql):
-- database_host (127.0.0.1):
-- database_port (null):
-- database_name (drupalcamp):
-- database_user (root):
-- database_password (null):
-- mailer_transport (smtp):
-- mailer_host (127.0.0.1):
-- mailer_user (null):
-- mailer_password (null):
-- locale (en):
-- secret (ThisTokenIsNotSoSecretChangeIt):
+Creating the "app/config/parameters.yml" file
+    - Some parameters are missing. Please provide them.
+    - database_driver (pdo_mysql):
+    - database_host (127.0.0.1):
+    - database_port (null):
+    - database_name (drupalcamp):
+    - database_user (root):
+    - database_password (null):
+    - mailer_transport (smtp):
+    - mailer_host (127.0.0.1):
+    - mailer_user (null):
+    - mailer_password (null):
+    - locale (en):
+    - secret (ThisTokenIsNotSoSecretChangeIt):
 
 * Cambiar el propietario de todo el directorio a usuario y grupo de apache.
 
@@ -73,13 +73,14 @@ Instalación
     *DrupalCampMx/web/app.php/*   y  *DrupalCampMx/web/app_dev.php/*
 
 
-* Referencias
+Referencias
+-----------
 
-[http://symfony.com/](http://symfony.com/)
-[http://twig.sensiolabs.org/](http://twig.sensiolabs.org/)
-[http://getbootstrap.com/](http://getbootstrap.com/)
-[http://960.gs/](http://960.gs/)
-[http://git-scm.com/](http://git-scm.com/)
+* [http://symfony.com/](http://symfony.com/)
+* [http://twig.sensiolabs.org/](http://twig.sensiolabs.org/)
+* [http://getbootstrap.com/](http://getbootstrap.com/)
+* [http://960.gs/](http://960.gs/)
+* [http://git-scm.com/](http://git-scm.com/)
 
 [1]:  http://symfony.com/
 [2]:  http://twig.sensiolabs.org/
