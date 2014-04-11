@@ -16,7 +16,60 @@ Sistema de Plantillas de Symfony TWIG
 * Responsive
 
 
-Enjoy!
+Requisitos:
+----------
+
+* Apache2
+
+* PHP5
+
+* GIT
+
+
+Instalación
+-----------
+
+* Clonar el proyecto dentro del raíz de web: git clone https://github.com/miguel-mx/DrupalCampMx-Twig.git
+
+* Instalar composer: https://getcomposer.org/download/ (instalar antes curl si es necesario: apt-get install curl)
+
+    curl -sS https://getcomposer.org/installer | php
+
+* Instalar los componentes de Symfony utilizando composer dentro del directorio principal DrupalCampMx-Twig/
+
+    composer.phar update
+
+* Durante la instalación los siguientes campos se pueden dejar vacíos:
+
+Creating the "app/config/parameters.yml" file
+Some parameters are missing. Please provide them.
+database_driver (pdo_mysql):
+database_host (127.0.0.1):
+database_port (null):
+database_name (drupalcamp):
+database_user (root):
+database_password (null):
+mailer_transport (smtp):
+mailer_host (127.0.0.1):
+mailer_user (null):
+mailer_password (null):
+locale (en):
+secret (ThisTokenIsNotSoSecretChangeIt):
+
+* Cambiar el propietario (usuario y grupo) de apache a todo el directorio.
+
+* Principales archivos:
+
+    DrupalCampMx-Twig/src/Ccm/TwigDemoBundle
+
+* Importante: cambiar permisos a los directorios dentro de app/cache
+
+* Página de inicio: DrupalCampMx/web/app.php/   y  DrupalCampMx/web/app_dev.php/
+
+    Estos son los dos controladores principales, ambientes de producción y desarrollo.
+
+
+* Referencias
 
 [1]:  http://symfony.com/
 [2]:  http://twig.sensiolabs.org/

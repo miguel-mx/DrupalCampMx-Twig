@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="835963df-500f-490d-ae27-8c150dbd18bc" name="Default" comment="" />
+    <list default="true" id="835963df-500f-490d-ae27-8c150dbd18bc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DrupalCamp.iml" afterPath="$PROJECT_DIR$/.idea/DrupalCamp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="DrupalCamp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/a.dummy" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395966256911" ignored="false" />
-    <file path="/README.md" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395969553053" ignored="false" />
+    <file path="/README.md" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397233764190" ignored="false" />
     <file path="/parameters.yml.dist" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395967821472" ignored="false" />
     <file path="/security.yml" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1395968674925" ignored="false" />
     <file path="/layout.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397067377650" ignored="false" />
     <file path="/index.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396551857692" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/install.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/install.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
     <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/configurator.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/framework/css/body.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/framework/css/structure.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/framework/css/exception.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396569720611" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/drupalcamp.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
-    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396574662937" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/sensiodistribution/webconfigurator/css/configurator.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.min.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/body.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/structure.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/framework/css/exception.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/drupalcamp.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
+    <file path="$PROJECT_DIR$/web/bundles/ccmtwigdemo/css/bootstrap-theme.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397172068617" ignored="false" />
     <file path="/drupalcamp.css" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1396573245605" ignored="false" />
     <file path="/DefaultController.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397155006268" ignored="false" />
     <file path="/variables.html.twig" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157280727" ignored="false" />
@@ -65,6 +70,7 @@
     <file path="$PROJECT_DIR$/app/cache/dev/twig/d7/44/906ad3afa98e11496f991768794f3b4307f94a94b08f1a0fe2b54cdf9037.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157387767" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/twig/24/f6/f631e55b567735446437945a3c96f9f8a987daee7646a90ad3f1f08ef8b2.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
     <file path="$PROJECT_DIR$/app/cache/dev/twig/18/4f/1adf9ea9f64926072f64cf406a6e504c28d8ceb63950be29913c8e479a4f.php" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397157260164" ignored="false" />
+    <file path="/Dummy.txt" changelist="835963df-500f-490d-ae27-8c150dbd18bc" time="1397233795717" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +89,30 @@
     <favorites_list name="DrupalCamp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="13" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.6402214">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -96,7 +120,6 @@
         <option value="$PROJECT_DIR$/app/AppKernel.php" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml.dist" />
         <option value="$PROJECT_DIR$/app/config/security.yml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Tests/Controller/DefaultControllerTest.php" />
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/public/css/drupalcamp.css" />
@@ -109,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/variables.html.twig" />
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/Default/control.html.twig" />
         <option value="$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -119,7 +143,7 @@
     <option name="width" value="1504" />
     <option name="height" value="995" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -175,118 +199,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ccm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwigDemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ccm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwigDemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ccm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwigDemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DrupalCamp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ccm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TwigDemoBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -403,10 +315,10 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25343406" sideWeight="0.6710059" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25343406" sideWeight="0.6717828" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32821724" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -482,13 +394,6 @@
     <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/config/services.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="33" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="34" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -582,6 +487,13 @@
     <entry file="file://$PROJECT_DIR$/src/Ccm/TwigDemoBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="0" selection-start="1752" selection-end="1752" vertical-scroll-proportion="0.40332907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="13" selection-start="1748" selection-end="1748" vertical-scroll-proportion="0.6402214">
           <folding />
         </state>
       </provider>
