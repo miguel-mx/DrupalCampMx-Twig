@@ -6,8 +6,7 @@ Sistema de Plantillas de Symfony TWIG
 
 ### Miguel Angel Magaña Lemus
 
-
-* Aplicación de demostración de uso del sistema de Plantillas [TWIG][2] de [Symfony][1].
+Aplicación de demostración de uso del sistema de Plantillas [TWIG][2] en [Symfony][1] DrupalCamp México 2014.
 
 * Integración con Framework de estilos CSS [Twitter Bootstrap][3].
 
