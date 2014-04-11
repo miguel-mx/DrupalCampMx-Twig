@@ -31,45 +31,55 @@ Instalación
 
 * Clonar el proyecto dentro del raíz de web: git clone https://github.com/miguel-mx/DrupalCampMx-Twig.git
 
-* Instalar composer: https://getcomposer.org/download/ (instalar antes curl si es necesario: apt-get install curl)
+* Instalar composer: https://getcomposer.org/download/ (instalar antes curl si es necesario)
 
-    curl -sS https://getcomposer.org/installer | php
+    *$ apt-get install curl*
+
+    *$ curl -sS https://getcomposer.org/installer | php*
 
 * Instalar los componentes de Symfony utilizando composer dentro del directorio principal DrupalCampMx-Twig/
 
-    composer.phar update
+    *$ composer.phar update*
 
 * Durante la instalación los siguientes campos se pueden dejar vacíos:
 
-Creating the "app/config/parameters.yml" file
-Some parameters are missing. Please provide them.
-database_driver (pdo_mysql):
-database_host (127.0.0.1):
-database_port (null):
-database_name (drupalcamp):
-database_user (root):
-database_password (null):
-mailer_transport (smtp):
-mailer_host (127.0.0.1):
-mailer_user (null):
-mailer_password (null):
-locale (en):
-secret (ThisTokenIsNotSoSecretChangeIt):
+- Creating the "app/config/parameters.yml" file
+- Some parameters are missing. Please provide them.
+- database_driver (pdo_mysql):
+- database_host (127.0.0.1):
+- database_port (null):
+- database_name (drupalcamp):
+- database_user (root):
+- database_password (null):
+- mailer_transport (smtp):
+- mailer_host (127.0.0.1):
+- mailer_user (null):
+- mailer_password (null):
+- locale (en):
+- secret (ThisTokenIsNotSoSecretChangeIt):
 
-* Cambiar el propietario (usuario y grupo) de apache a todo el directorio.
+* Cambiar el propietario de todo el directorio a usuario y grupo de apache.
 
-* Principales archivos:
+    (ubuntu) $ chown -R www-data:www-data DrupalCampMx
 
-    DrupalCampMx-Twig/src/Ccm/TwigDemoBundle
+* Principales archivos del demo:
 
-* Importante: cambiar permisos a los directorios dentro de app/cache
+    *DrupalCampMx-Twig/src/Ccm/TwigDemoBundle*
 
-* Página de inicio: DrupalCampMx/web/app.php/   y  DrupalCampMx/web/app_dev.php/
+* Importante: cambiar permisos a los directorios dentro de *app/cache*
 
-    Estos son los dos controladores principales, ambientes de producción y desarrollo.
+* Página de inicio: estos son los dos controladores principales ambiente de producción y desarrollo.
+
+    *DrupalCampMx/web/app.php/*   y  *DrupalCampMx/web/app_dev.php/*
 
 
 * Referencias
+
+[http://symfony.com/](http://symfony.com/)
+[http://twig.sensiolabs.org/](http://twig.sensiolabs.org/)
+[http://getbootstrap.com/](http://getbootstrap.com/)
+[http://960.gs/](http://960.gs/)
+[http://git-scm.com/](http://git-scm.com/)
 
 [1]:  http://symfony.com/
 [2]:  http://twig.sensiolabs.org/
